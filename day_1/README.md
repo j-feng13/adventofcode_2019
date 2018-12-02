@@ -1,0 +1,1 @@
+Some rust attempts at adventofcode 2019
